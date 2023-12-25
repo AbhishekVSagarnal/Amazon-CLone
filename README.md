@@ -1,12 +1,5 @@
 # Amazon Clone (amazon-clone)
 
-### Tutorial series on how to build this
-
-If you'd like a step by step guide on how to build this just **CLICK THE IMAGE BELOW**
-
-[![GO TO JOHN WEEKS DEV TUTORIAL VIDEOS](https://user-images.githubusercontent.com/108229029/220291890-aef4e3e0-2b9b-43a3-ad49-e06be9b63915.jpeg)](https://www.youtube.com/watch?v=SAUKvG6ILSs)
-
-
 ## App Setup
 
 ```
